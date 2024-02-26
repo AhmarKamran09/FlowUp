@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Order_Completed-removebg-preview.png</file>
+        <file>pexels-mart-production-7709291-removebg-preview.png</file>
+        <file>Join_AS_teamcompany-removebg-preview.png</file>
+        <file>Join_AS_teamcompany__2_-removebg-preview.png</file>
+        <file>Screenshot-removebg-preview.png</file>
+        <file>Introducing_flowup-removebg-preview.png</file>
+        <file>Untitled design (2).png</file>
+        <file>Untitled design (3).png</file>
+        <file>c49e8a4429b543158951fbaca6b7a3da-removebg-preview.png</file>
+        <file>left.png</file>
+        <file>right.png</file>
+        <file>table view.png</file>
+        <file>deleteemployee.png</file>
+        <file>Untitled design (7).png</file>
+        <file>Untitled design (8).png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>1Kte.gif</file>
+        <file>ZZ5H.gif</file>
+        <file>Untitled design (1).gif</file>
+        <file>cal.png</file>
+        <file>Game (3).png</file>
+        <file>channels4_profile.jpg</file>
+        <file>ISO_C++_Logo.svg (1).png</file>
+        <file>Sql_data_base_with_logo.png</file>
+        <file>SQLite370.svg.png</file>
+        <file>Agreementpage.txt</file>
+        <file>MainDatabase.db</file>
+    </qresource>
+</RCC>
